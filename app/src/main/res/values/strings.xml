@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitApp</string>
+    <string name="repository">Repository</string>
+    <string name="author">Author</string>
+    <string name="image_profile">Image - Author Profile</string>
+    <string name="image_star">Image - Star Icon</string>
+    <string name="image_fork">Image - Fork Icon</string>
+    <string name="github">GitHub</string>
+    <string name="kotlin_repositories">Kotlin Repositories</string>
+    <string name="repositories_loaded">[ Total Repositories Loaded: %s ]</string>
+    <string name="no_data">There is no more data to be loaded!\n\nAll Kotlin repositories were downloaded!</string>
+    <string name="no_internet">There is no INTERNET connection available!\n\nIt´s not possible to load data.\n\nPlease, try again…</string>
+    <string name="error">App is not responding correctly!\n\nPlease, try again…\n\nProblem: %s</string>
+    <string name="bt_ok">OK</string>
+    <string name="bt_retry">Retry</string>
+    <string name="bt_cancel">Cancel</string>
+</resources>
